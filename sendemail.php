@@ -1,6 +1,6 @@
 <?php
 
-$to = "youremail@gmail.com";
+$to = "toemail@gmail.com";
 
 $subject = "Contact Lead";
 
@@ -23,7 +23,7 @@ $message = "<html>
 </body>
 </html>";
 
-$header = 'From: <contact@codeavoid.com>' . "\r\n";
+$header = 'From: <fromemail@gmail.com>' . "\r\n";
 $header .= 'Content-type:text/html;charset=UTF-8' . "\r\n";
 
 
