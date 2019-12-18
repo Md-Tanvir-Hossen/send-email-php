@@ -1,6 +1,6 @@
 <?php
 
-$to = "rajatvarshney2009@gmail.com";
+$to = "youremail@gmail.com";
 
 $subject = "Contact Lead";
 
